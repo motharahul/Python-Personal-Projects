@@ -1,3 +1,3 @@
-# rahul
-anyone can be welcomed with new ideas
-together we can create new applications
+#  Personal Projects
+First python project Practice
+learning and Understanding python. creating various projects.  
